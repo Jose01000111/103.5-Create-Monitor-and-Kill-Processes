@@ -7,7 +7,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 103.5](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.5_Create.2C_monitor_and_kill_processes)
 
-[OBJ. 103.5 NOTES]()
+[OBJ. 103.5 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EVNQbpIqz89GnpwHXZc3uLgBo_domUfRa0YQeqmP0JfjyQ?e=zeiH2L)
 
 [OBJ. 103.5 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EbnLsV43-aNKqk6yZ9WtXIIB_YNe_CEw5iWSffDD-5HKIg?e=oicGqo)
 
