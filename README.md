@@ -3,6 +3,16 @@
 ## ✅ What I Did in This Lab
 I broke down the lab into five parts based on the key knowledge areas of the LPIC-1 objective. I practiced both interactive and scripted use of commands like ps, kill, bg, fg, watch, tmux, and more. Each section helped me understand real-world process control and monitoring in Linux.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
+[EXAM OBJECTIVE 103.5](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.5_Create.2C_monitor_and_kill_processes)
+
+[OBJ. 103.5 NOTES]()
+
+[OBJ. 103.5 LAB]()
+
+---
+
 ## 1️⃣ Run Jobs in the Foreground and Background
 
 🔹Create a background job
